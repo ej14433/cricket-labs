@@ -1,0 +1,5 @@
+parseBall:
+- check ball exists, if so ignore
+- check players exist, if not create player, if so get ids
+- check if catcher, if so get player id, if not player create player
+- create ball
