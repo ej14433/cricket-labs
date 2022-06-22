@@ -17,6 +17,6 @@
     "body-parse": "^0.1.0",
     "csv-parse": "^4.11.1",
     "fs": "0.0.1-security",
-    "sqlite3": "^5.0.0"
+    "sqlite3": "^5.0.3"
   }
 }
